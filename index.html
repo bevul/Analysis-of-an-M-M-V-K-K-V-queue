@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>M/M/V/K (K=V)</title>
+<link rel="stylesheet" href="css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="css/style.css" />
+<script type="text/javascript" src="js/loader.js">
+    </script>
+    <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+</head>
+
+
+<body>
+
+<header>
+    <div class="top_line">
+        <div class="container">
+            <div class="row">
+                <h1>M/M/V/K (K=V)</h1>
+            </div>
+            <div class="row">
+                <p class="intro">Выполнила студентка гр.ИКПИ-61 Баягантаева Екатерина</p>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="calculation">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-4">
+                <form name="input">
+
+                    <p class="main" id="enter_data">Введите значения:</p>
+                    <p id="div_l" >λ</p>
+                    <input name="l" id="value_l" value=""><br>
+                    <p id="div_m">&#956</p>
+                    <input name="m" id="value_m" value=""><br>
+                    <p id="div_v">v</p>
+                    <input name="v" id="value_v" value=""><br>
+
+                    <p></p>
+                    <input type="button" class="button" onclick="Build()" id="fadeshow" value="Найти"><br>
+                    <p></p>
+                    <input type="button" onclick="ClearChart()" class="button" id="fadehide" value="Сбросить значения"><br>
+
+
+                </form>
+            </div>
+
+
+    <div class="chart">
+        <div class="col-5">
+            <div id="chart_div"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-3" id="valuePt"></div>
+            <div class="col-3" id="valueK"></div>
+            <div class="col-3" id="valueT"></div>
+        </div>
+    </div>
+
+
+    </div>
+    </div>
+</section>
+
+
+<section class="info">
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <p style="font-size: 20px"><b>Графическая схема</b></p>
+            </div>
+            <div class="col-6">
+                <p style="font-size: 20px"><b>Диаграмма состояний</b></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <img src="img/info0.png " alt="Графическая схема" height="250" class="graf" >
+            </div>
+            <div class="col-6">
+                <img src="img/cond0.png" alt="Диаграмма состояний" height="250" class="cond" >
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="js/code.js"></script>
+<script src="js/chart.js"></script>
+</body>
+</html>

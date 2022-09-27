@@ -1,0 +1,122 @@
+.top_line
+{
+    background-image: url(../img/bg.jpg);
+    font-family: Lucida Console;
+    border-style: solid;
+}
+
+.intro
+{
+    font-family: Georgia;
+    font-size: 20px;
+    height: 20px;
+    margin-top: -10px ;
+}
+
+.calculation
+{
+    font-family: Geneva,georgia,serif;
+    background-image: url(../img/calc.jpg);
+    border-bottom: solid;
+    border-left: solid;
+    border-right: solid;
+    height: 500px;
+}
+
+.calc input
+{
+    width: 180px;
+
+}
+
+
+#enter_data{
+    padding-top: 10px;
+    font-family: Georgia;
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+
+
+
+#m{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+#v{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+#l{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+
+#valuePt{
+    font-size: 20px;
+}
+
+#valueK{
+    font-size: 20px;
+}
+
+#valueT{
+    font-size: 20px;
+}
+
+.chart
+{
+    padding-top: 100px;
+}
+
+#chart_div
+{
+    width: 600px;
+    height: 300px;
+}
+
+.button {
+	display: inline-block;
+	background-image: url(../img/bt0.jpg);
+	height: 40px;
+    width: 180px;
+	vertical-align: middle;
+	line-height: 40px;
+	padding-top: 0px;
+	font-size: 15px;
+    color: #000000;
+    font-family: Geneva,georgia,serif;
+    text-align: center;
+
+}
+
+.button:hover
+{
+    background: #5e2070;
+
+}
+
+
+.info{
+    font-size: 20px;
+    background-image: url(../img/bg.jpg);
+    height: 500px;
+    padding-top: 0px;
+    text-align: center;
+    border-bottom: solid;
+    border-left: solid;
+    border-right: solid;
+}
+
+.graf {
+
+    border: 2px solid #000000
+}
+.cond {
+
+    border: 2px solid #000000
+}
+
