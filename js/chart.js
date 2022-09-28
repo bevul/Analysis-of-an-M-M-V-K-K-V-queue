@@ -20,7 +20,7 @@ function drawChart(l, m, v) {
 
 var options = {
     hAxis: {
-        title: 'K',
+        title: 'V',
     },
     vAxis: {
         title: 'Pk',
