@@ -2,6 +2,9 @@
 
 Servise app for the call flow of a multiline QS with an exponential distribution of service duration without waiting area.
 
+![image](https://user-images.githubusercontent.com/92825775/192682446-1e889203-b640-4cdf-aa4e-ee24b01fa4d2.png)
+
+
 ## Conditions
 
 <img src="https://user-images.githubusercontent.com/92825775/192676307-5b725dc5-1768-425d-af67-51c85e8d792b.png" width="260">
