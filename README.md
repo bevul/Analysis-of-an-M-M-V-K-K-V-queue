@@ -1,6 +1,6 @@
 # Analysis of an MMVK queue
 
-A system for servicing the simplest call flow of a multiline QS with an exponential distribution of service duration without waiting area.
+Servise app for the call flow of a multiline QS with an exponential distribution of service duration without waiting area.
 
 ## Conditions
 
