@@ -16,7 +16,7 @@ Model stability conditions:
 
 ## Scheme
 
-<img src="https://user-images.githubusercontent.com/92825775/192677062-374cf52c-7a99-4d54-8b58-5b0f02eb042b.png" width="280">
+<img src="https://user-images.githubusercontent.com/92825775/192677062-374cf52c-7a99-4d54-8b58-5b0f02eb042b.png" width="200">
 
 ## Transition diagram
 
