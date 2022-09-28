@@ -1,6 +1,6 @@
 # Analysis of an MMVK queue
 
-Servise app for the call flow of a multiline QS with an exponential distribution of service duration without waiting area.
+App is dedicated to the call flow of a multiline QS with an exponential distribution of service duration without waiting area.
 
 ![image](https://user-images.githubusercontent.com/92825775/192682446-1e889203-b640-4cdf-aa4e-ee24b01fa4d2.png)
 
